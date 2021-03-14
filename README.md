@@ -4,7 +4,7 @@
 **Course Date:**   08/03/2021 - 13/03/2021
 **Name:** Ege  
 **Surname:** Çıtak  
-**Email:** egecitak01@gamil.com
+**Email:** egecitak01@gmail.com
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
